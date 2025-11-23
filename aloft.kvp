@@ -1,12 +1,12 @@
 Meta.DisplayName=Aloft
 Meta.Description=Aloft Dedicated Server
-Meta.OS=
+Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
 Meta.Arch=x86_64
-Meta.Author=Greelan
+Meta.Author=Ash
 Meta.URL=https://pr.funcom.com/Aloft
 Meta.DisplayImageSource=steam:1660080
-Meta.EndpointURIFormat= 
+Meta.EndpointURIFormat=steam://connect/{ip}:{GenericModule.App.Ports.$QueryPort}
 Meta.ConfigManifest=aloftconfig.json
 Meta.MetaConfigManifest=aloftmetaconfig.json
 Meta.ConfigRoot=aloft.kvp
